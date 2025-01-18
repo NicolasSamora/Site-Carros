@@ -1,0 +1,33 @@
+img.voltar{
+    position: relative;
+    left: 40px;
+}
+h1{
+    position: relative;
+    left: 480px;
+}
+h2{
+    position: relative;
+    left: 510px;
+}
+h2.mbs{
+    position: relative;
+    left: 447px;
+}
+h3.mbsft{
+    position: relative;
+    left: 430px;
+}
+h3.mboft{
+    position: relative;
+    left: 467px;
+}
+h2.mme{
+    position: relative;
+    left: 470px;
+}
+img.voltarf{
+    width: 100px;
+    position: relative;
+    left: 607px;
+}

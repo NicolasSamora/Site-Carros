@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(134, 134, 134);
+    overflow-x: hidden;
+    
+}
+h1.pos {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 375px;
+}
+img {
+  position: relative;
+  left: 485px;
+}
+img.audi{
+    position: relative;
+    left: 496px;
+}
+img.bmw{
+    position: relative;
+    left: 496px;
+}
+img.ford{
+    position: relative;
+    left: 496px ;
+}
+img.honda{
+    width: 290px;
+    position: relative;
+    left: 503px;
+}
+img.hyundai{
+    top: 50px;
+    width: 300px;
+    position: relative;
+    left: 498px ;
+}
+img.mercedes{
+    top: 50px;
+    position: relative;
+    left: 500px;
+}
+img.mitsu{
+    position: relative;
+    left: 486px;
+    margin-top: -30px;
+}
+img.nissan{
+    width: 240px;
+    position: relative;
+    left: 533px;
+    margin-top: -30px;
+}
+img.toyota{
+    width: 230px;
+    position: relative;
+    left: 540px;
+    top: 30px;
+}
+img.volks{
+    width: 390px;
+    position: relative;
+    left: 465px;
+    top: 30px;
+}

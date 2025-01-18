@@ -1,0 +1,74 @@
+h1{
+    position: relative;
+    left: 530px;
+    margin-top: -50px;
+    text-decoration: underline;
+}
+img.voltar{
+    position: relative;
+    left: 40px;
+}
+p{
+    left: 10px;
+    text-align: center;
+    font-size: medium;
+}
+h2{
+    color: azure;
+    position: relative;
+    left: 595px;
+}
+img{
+    position: relative;
+    left: 467px;
+}
+h2.a1ft{
+    position: relative;
+    left: 516px;
+}
+h3{
+    color: azure;
+    position: relative;
+    left: 583px;
+}
+iframe{
+    position: relative;
+    left: 398px;
+}
+h3.a5ft{
+    position: relative;
+    left: 548px;
+}
+iframe.a5{
+    position: relative;
+    left: 390px;
+}
+h3.q2ft{
+    position: relative;
+    left: 550px;
+}
+h2.q2{
+    position: relative;
+    left: 598px;
+}
+img.q2{
+    position: relative;
+    left: 475px;
+}
+h3.q7ft{
+    position: relative;
+    left: 540px;
+}
+iframe.q7{
+    position: relative;
+    left: 388px;
+}
+iframe.att{
+    position: relative;
+    left: 385px;
+}
+img.voltarf{
+    width: 100px;
+    position: relative;
+    left: 587px;
+}
